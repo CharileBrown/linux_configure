@@ -22,5 +22,5 @@ set laststatus=2
 set showmatch
 set hlsearch
 
-set listchars=tab:»■,trail:■
+set listchars=tab:■■,trail:■
 set list
