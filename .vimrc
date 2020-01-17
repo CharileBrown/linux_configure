@@ -10,8 +10,8 @@ set autoindent
 set tabstop=2
 
 set number
-set cursorline
-set textwidth=80
+highlight CursorLine   cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
+highlight CursorColumn cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
 set wrap
 set scrolloff=5
 set  ruler
